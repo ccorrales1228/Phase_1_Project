@@ -21,7 +21,7 @@ Box Office Mojo: The data used were worldwide lifetime box office earnings, fore
 TheMovieDB.org: Data caputure via API were from TheMovieDb's TOP RATED section from their database. Please note, although we captureed data via API, we decided to not use the data as the webscraped data from IMDB and Box Office Mojo were enough for our analysis.
 
 ## Methods
-This projected uses exploratory data analysis to find poential trends to help Microsoft stakeholder to find which genre to focus on first thiir first production.
+This projected uses exploratory data analysis to find poential trends to help Microsoft stakeholder to find which genre to focus on first their first production.
 
 ## For More Information
 Please review our full analysis in our Jupyter Notebooks, [Corrales_Notebook]() and [Akamnonu_Notebook](https://github.com/ccorrales1228/Phase_1_Project/blob/Akams/Akams_phase_1_project.ipynb), or our [presentation]().
