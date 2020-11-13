@@ -30,4 +30,6 @@ For any additional questions, please contact contributers:
 Christian Corrales at and
 Ijeoma N. Akamnonu at <inakamno@buffaloedu> 
 
+![thank_you](thank_you.jpg)
+
 
