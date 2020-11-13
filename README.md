@@ -24,10 +24,10 @@ TheMovieDB.org: Data caputure via API were from TheMovieDb's TOP RATED section f
 This projected uses exploratory data analysis to find poential trends to help Microsoft stakeholder to find which genre to focus on first thiir first production.
 
 ## For More Information
-Please review our full analysis in our Jupyter Notebook or our presentation.
+Please review our full analysis in our Jupyter Notebooks, [Corrales_Notebook]() and [Akamnonu_Notebook](Akams_phase_1_project.ipynb) or our [presentation]().
 
 For any additional questions, please contact contributers:
-Christian Corrales
-Ijeoma N. Akamnonu <inakamno@buffaloedu> 
+Christian Corrales at and
+Ijeoma N. Akamnonu at <inakamno@buffaloedu> 
 
 
