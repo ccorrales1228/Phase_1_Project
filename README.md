@@ -1,6 +1,7 @@
 # Phase_1_Project
+## Ijeoma Akamnonu and Christian Corrales
 
-## Ijeoma Akamnoun and Christian Corrales
+![film](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwebstockreview.net%2Fexplore%2Ffilm-clipart-rolling-film%2F&psig=AOvVaw3qq1zkhSmzCqCOhWQSx2Vf&ust=1605334071240000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPj5htDt_uwCFQAAAAAdAAAAABAD)
 
 ## Overview
 This project will focus on data gathering and analysis to aid Microsoft's business stakeholders on their new venture within the box office space.
